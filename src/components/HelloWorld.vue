@@ -1,6 +1,11 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+
+    <h2> Mayra Vanessa Morales Hernandez </h2>
+
+    <h2> 20191230  10°  A </h2>
+
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
